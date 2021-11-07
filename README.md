@@ -1,2 +1,2 @@
 # Real_Estate_Analysis_Dashboard
-Dashboard to provide customers with information to analyze real estate properties in San Francisco to determine whether to invest.
+This dashboard provides customers with information to analyze real estate properties in San Francisco to determine whether to invest. The different tabs present a visual analysis of historical prices of housing units, sale price per square foot, and gross rent in San Francisco, California from 2010-2016. Navigate through the tabs above to explore more details about the evolution of the real estate market on the The Golden City across the years.
